@@ -55,15 +55,35 @@ CATEGORY_MAPPING_DE = {
     "hosting": "Webhosting (Inklusivdomain & SSD)"
 }
 
-def get_current_time_display():
-    utc_now = datetime.now(timezone.utc)
-    bj_time = utc_now.astimezone(timezone(timedelta(hours=8)))
-    de_time = utc_now.astimezone(timezone(timedelta(hours=2))) # CEST / MESZ
-    
+def get_current_time_display(last_sync_str=None):
+    dt = None
+    if last_sync_str:
+        try:
+            clean = str(last_sync_str).strip()
+            # Handle UTC strings like 2026-09-11T05:00:06.697Z
+            if clean.endswith('Z'):
+                clean = clean[:-1] + '+00:00'
+            elif ' ' in clean and not 'T' in clean:
+                clean = clean.replace(' ', 'T') + '+00:00'
+            parsed = datetime.fromisoformat(clean)
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=timezone.utc)
+            dt = parsed
+        except Exception as e:
+            print(f"Failed to parse last_sync_str '{last_sync_str}': {e}")
+            dt = None
+
+    if not dt:
+        dt = datetime.now(timezone.utc)
+
+    utc_time = dt.astimezone(timezone.utc)
+    bj_time = dt.astimezone(timezone(timedelta(hours=8)))
+    de_time = dt.astimezone(timezone(timedelta(hours=2))) # CEST / MESZ
+
     return {
-        "en": f"`{utc_now.strftime('%Y-%m-%d %H:%M:%S UTC')}` | `{bj_time.strftime('%H:%M:%S CST (UTC+8)')}` | `{de_time.strftime('%H:%M:%S CEST (UTC+2)')}`",
+        "en": f"`{utc_time.strftime('%Y-%m-%d %H:%M:%S UTC')}` | `{bj_time.strftime('%H:%M:%S CST (UTC+8)')}` | `{de_time.strftime('%H:%M:%S CEST (UTC+2)')}`",
         "zh": f"`{bj_time.strftime('%Y-%m-%d %H:%M:%S 北京时间 (UTC+8)')}` | `{de_time.strftime('%H:%M:%S 德国时间 (UTC+2)')}`",
-        "de": f"`{de_time.strftime('%Y-%m-%d %H:%M:%S MESZ (Deutschland)')}` | `{utc_now.strftime('%H:%M:%S UTC')}`"
+        "de": f"`{de_time.strftime('%Y-%m-%d %H:%M:%S MESZ (Deutschland)')}` | `{utc_time.strftime('%H:%M:%S UTC')}`"
     }
 
 def fetch_coupons_from_main_api():
@@ -312,9 +332,9 @@ def main():
 
     coupons = data.get("coupons", [])
     total_codes = sum(len(c.get("codes", [])) for c in coupons)
-    print(f"Successfully retrieved {len(coupons)} categories with a total of {total_codes} active codes.")
-
-    times = get_current_time_display()
+    last_sync_display = data.get("last_sync_display")
+    print(f"API provided last_sync_display: {last_sync_display}")
+    times = get_current_time_display(last_sync_display)
 
     write_english_readme(coupons, times["en"])
     write_chinese_readme(coupons, times["zh"])
