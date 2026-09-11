@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-09-11 05:00:06 UTC` | `13:00:06 CST (UTC+8)` | `07:00:06 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-09-11 05:07:26 UTC` | `13:07:26 CST (UTC+8)` | `07:07:26 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -97,23 +97,27 @@
   - [`4604nc17817084131`](https://www.netcup.com/en/checkout/cart?gutschein=4604nc17817084131&ref=257842) *(Click code to redeem directly)*
 
 ## 🚀 Hardware Specifications (Netcup G12 Generation)
-Netcup G12 instances feature AMD EPYC 9645 enterprise processors with DDR5 ECC memory and enterprise NVMe storage.
+Netcup G12 instances feature AMD EPYC 9645 enterprise processors with DDR5 ECC memory, enterprise NVMe storage, and 2.5 Gbps bandwidth.
 
 ### Root Server G12 (Dedicated AMD EPYC 9645 Cores)
-| Plan | CPU / vCores | RAM (DDR5 ECC) | NVMe Storage | Traffic | Direct Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| RS 1000 G12 | 4 Dedicated Cores | 8 GB | 256 GB | Unlimited | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 2000 G12 | 8 Dedicated Cores | 16 GB | 512 GB | Unlimited | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 4000 G12 | 12 Dedicated Cores | 32 GB | 1024 GB | Unlimited | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 8000 G12 | 16 Dedicated Cores | 64 GB | 2048 GB | Unlimited | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| Plan | CPU / vCores | RAM (DDR5 ECC) | NVMe Storage | Bandwidth | Traffic Limit | Direct Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| RS 1000 G12 | 4 Dedicated Cores | 8 GB | 256 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 2000 G12 | 8 Dedicated Cores | 16 GB | 512 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 4000 G12 | 12 Dedicated Cores | 32 GB | 1024 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 8000 G12 | 16 Dedicated Cores | 64 GB | 2048 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+
+> 📌 ***Root Server Traffic Policy:*** *If traffic exceeds 3 TB within the last 24 hours, a temporary throttling to 300 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies.*
 
 ### VPS G12 (High Performance Shared Cores)
-| Plan | vCores | RAM (DDR5 ECC) | NVMe Storage | Port Speed | Direct Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| VPS 1000 G12 | 4 vCores | 8 GB | 256 GB | 1 Gbps | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 2000 G12 | 8 vCores | 16 GB | 512 GB | 1 Gbps | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 4000 G12 | 12 vCores | 32 GB | 1024 GB | 1 Gbps | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 8000 G12 | 16 vCores | 64 GB | 2048 GB | 1 Gbps | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| Plan | vCores | RAM (DDR5 ECC) | NVMe Storage | Bandwidth | Traffic Limit | Direct Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| VPS 1000 G12 | 4 vCores | 8 GB | 256 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 2000 G12 | 8 vCores | 16 GB | 512 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 4000 G12 | 12 vCores | 32 GB | 1024 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 8000 G12 | 16 vCores | 64 GB | 2048 GB | 2.5 Gbps | Unlimited* | [View Plan](https://www.netcup.com/en/checkout/cart?ref=257842) |
+
+> 📌 ***VPS Traffic Policy:*** *If traffic exceeds 2 TB within the last 24 hours, a temporary throttling to 200 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies.*
 
 ## ❓ FAQ
 **Q: Are these voucher codes free?**  

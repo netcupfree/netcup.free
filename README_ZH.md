@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-09-11 13:00:06 北京时间 (UTC+8)` | `07:00:06 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-09-11 13:07:26 北京时间 (UTC+8)` | `07:07:26 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -97,23 +97,27 @@
   - [`4604nc17817084131`](https://www.netcup.com/en/checkout/cart?gutschein=4604nc17817084131&ref=257842) *(点击自动填入购物车)*
 
 ## 🚀 硬件配置参数表 (Netcup G12 代 AMD EPYC 9645)
-Netcup 最新 G12 代服务器全系搭载 AMD 顶级 EPYC 9645 处理器与高速 NVMe 固态硬盘：
+Netcup 最新 G12 代全系产品均搭载 AMD 顶级 EPYC 9645 处理器、DDR5 ECC 内存与高速 NVMe 固态硬盘，且 VPS 与 Root Server 均提供高达 2.5 Gbps 高速带宽：
 
 ### Root Server G12 (独享独立核心 - 强劲算力保证)
-| 型号规格 | 独立 CPU 核心 | 内存 (DDR5 ECC) | NVMe 存储 | 流量限制 | 官方直达 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| RS 1000 G12 | 4 独享核心 | 8 GB | 256 GB | 无限流量 | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 2000 G12 | 8 独享核心 | 16 GB | 512 GB | 无限流量 | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 4000 G12 | 12 独享核心 | 32 GB | 1024 GB | 无限流量 | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| RS 8000 G12 | 16 独享核心 | 64 GB | 2048 GB | 无限流量 | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| 型号规格 | 独立 CPU 核心 | 内存 (DDR5 ECC) | NVMe 存储 | 端口速率 | 流量限制 | 官方直达 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| RS 1000 G12 | 4 独享核心 | 8 GB | 256 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 2000 G12 | 8 独享核心 | 16 GB | 512 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 4000 G12 | 12 独享核心 | 32 GB | 1024 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| RS 8000 G12 | 16 独享核心 | 64 GB | 2048 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+
+> 📌 **Root Server 流量规则：** 若在过去的 24 小时内累计流量超过 3 TB，将临时限速至 300 Mbit/s。一旦过去 24 小时内的累计流量低于该阈值，限速将自动解除恢复（If traffic exceeds 3 TB within the last 24 hours, a temporary throttling to 300 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies.）。
 
 ### VPS G12 (超高性价比共享核心)
-| 型号规格 | 共享核心 | 内存 (DDR5 ECC) | NVMe 存储 | 端口速率 | 官方直达 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| VPS 1000 G12 | 4 核心 | 8 GB | 256 GB | 1 Gbps | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 2000 G12 | 8 核心 | 16 GB | 512 GB | 1 Gbps | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 4000 G12 | 12 核心 | 32 GB | 1024 GB | 1 Gbps | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
-| VPS 8000 G12 | 16 核心 | 64 GB | 2048 GB | 1 Gbps | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| 型号规格 | 共享核心 | 内存 (DDR5 ECC) | NVMe 存储 | 端口速率 | 流量限制 | 官方直达 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| VPS 1000 G12 | 4 核心 | 8 GB | 256 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 2000 G12 | 8 核心 | 16 GB | 512 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 4000 G12 | 12 核心 | 32 GB | 1024 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+| VPS 8000 G12 | 16 核心 | 64 GB | 2048 GB | 2.5 Gbps | 无限流量* | [立即查看](https://www.netcup.com/en/checkout/cart?ref=257842) |
+
+> 📌 **VPS 流量规则：** 若在过去的 24 小时内累计流量超过 2 TB，将临时限速至 200 Mbit/s。一旦过去 24 小时内的累计流量低于该阈值，限速将自动解除恢复（If traffic exceeds 2 TB within the last 24 hours, a temporary throttling to 200 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies.）。
 
 ## ❓ 常见问题 (FAQ)
 **Q: 优惠码是一次性的吗？**  

@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-09-11 07:00:06 MESZ (Deutschland)` | `05:00:06 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-09-11 07:07:26 MESZ (Deutschland)` | `05:07:26 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -97,13 +97,27 @@
   - [`4604nc17817084131`](https://www.netcup.com/de/checkout/warenkorb?gutschein=4604nc17817084131&ref=257842) *(Klicken zum Einlösen)*
 
 ## 🚀 Technische Spezifikationen (Netcup G12 Generation)
+Netcup G12-Instanzen verfügen über AMD EPYC 9645 Enterprise-Prozessoren mit DDR5 ECC-Arbeitsspeicher, NVMe-Speicher und schnellen 2,5 GBit/s Bandbreite.
+
 ### Root Server G12 (Dedizierte AMD EPYC 9645 Kerne)
-| Tarif | CPU / Kerne | RAM (DDR5 ECC) | NVMe Speicher | Traffic | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| RS 1000 G12 | 4 Dedizierte Kerne | 8 GB | 256 GB | Flatrate | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
-| RS 2000 G12 | 8 Dedizierte Kerne | 16 GB | 512 GB | Flatrate | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
-| RS 4000 G12 | 12 Dedizierte Kerne | 32 GB | 1024 GB | Flatrate | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
-| RS 8000 G12 | 16 Dedizierte Kerne | 64 GB | 2048 GB | Flatrate | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| Tarif | CPU / Kerne | RAM (DDR5 ECC) | NVMe Speicher | Port-Speed | Traffic | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| RS 1000 G12 | 4 Dedizierte Kerne | 8 GB | 256 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| RS 2000 G12 | 8 Dedizierte Kerne | 16 GB | 512 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| RS 4000 G12 | 12 Dedizierte Kerne | 32 GB | 1024 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| RS 8000 G12 | 16 Dedizierte Kerne | 64 GB | 2048 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+
+> 📌 ***Root Server Traffic-Regelung:*** *If traffic exceeds 3 TB within the last 24 hours, a temporary throttling to 300 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies. (Überschreitet der Traffic innerhalb der letzten 24 Stunden 3 TB, wird vorübergehend auf 300 Mbit/s gedrosselt. Die Drosselung wird aufgehoben, sobald dies nicht mehr zutrifft.)*
+
+### VPS G12 (Leistungsstarke Shared Kerne)
+| Tarif | vCores | RAM (DDR5 ECC) | NVMe Speicher | Port-Speed | Traffic | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| VPS 1000 G12 | 4 vCores | 8 GB | 256 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| VPS 2000 G12 | 8 vCores | 16 GB | 512 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| VPS 4000 G12 | 12 vCores | 32 GB | 1024 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+| VPS 8000 G12 | 16 vCores | 64 GB | 2048 GB | 2,5 GBit/s | Flatrate* | [Details ansehen](https://www.netcup.com/de/checkout/warenkorb?ref=257842) |
+
+> 📌 ***VPS Traffic-Regelung:*** *If traffic exceeds 2 TB within the last 24 hours, a temporary throttling to 200 Mbit/s will be applied. The throttling is lifted as soon as this condition no longer applies. (Überschreitet der Traffic innerhalb der letzten 24 Stunden 2 TB, wird vorübergehend auf 200 Mbit/s gedrosselt. Die Drosselung wird aufgehoben, sobald dies nicht mehr zutrifft.)*
 
 ## ❓ Häufig gestellte Fragen (FAQs)
 **Q: Sind die Gutscheine kostenlos?**  
