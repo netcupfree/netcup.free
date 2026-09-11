@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-09-11 15:07:12 UTC` | `23:07:12 CST (UTC+8)` | `17:07:12 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-09-11 15:11:14 UTC` | `23:11:14 CST (UTC+8)` | `17:11:14 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,7 +24,7 @@
 ### Root Servers (RS G12 - Dedicated AMD EPYC Cores)
 
 - **Root Server 1000 G12 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
-  - [`5997nc17886460830`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886460830&ref=257842) *(Click code to redeem directly)*
+  - [`5997nc17891394380`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17891394380&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886125171`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125171&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886125170`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125170&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886100420`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886100420&ref=257842) *(Click code to redeem directly)*
@@ -51,7 +51,6 @@
 ### VPS (Virtual Private Servers - G12)
 
 - **VPS 1000 G12 Voucher (1 Month Free)** - *Best budget starter VPS for personal blogs and lightweight apps.*
-  - [`5799nc17891115410`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17891115410&ref=257842) *(Click code to redeem directly)*
   - [`5799nc17891062890`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17891062890&ref=257842) *(Click code to redeem directly)*
   - [`5799nc17890706440`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17890706440&ref=257842) *(Click code to redeem directly)*
   - [`5799nc17886036980`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17886036980&ref=257842) *(Click code to redeem directly)*
