@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-09-11 15:22:16 北京时间 (UTC+8)` | `09:22:16 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-09-11 15:26:09 北京时间 (UTC+8)` | `09:26:09 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -51,11 +51,11 @@
 ### VPS 云服务器 (G12 代 AMD EPYC)
 
 - **VPS 1000 G12 Voucher (1 Month Free)** - *Best budget starter VPS for personal blogs and lightweight apps.*
+  - [`5799nc17891115410`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17891115410&ref=257842) *(点击自动填入购物车)*
   - [`5799nc17891062890`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17891062890&ref=257842) *(点击自动填入购物车)*
   - [`5799nc17890706440`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17890706440&ref=257842) *(点击自动填入购物车)*
   - [`5799nc17886036980`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17886036980&ref=257842) *(点击自动填入购物车)*
   - [`5799nc17884699960`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17884699960&ref=257842) *(点击自动填入购物车)*
-  - [`5799nc17853641280`](https://www.netcup.com/en/checkout/cart?gutschein=5799nc17853641280&ref=257842) *(点击自动填入购物车)*
 - **VPS 2000 G12 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
   - [`5800nc17886039692`](https://www.netcup.com/en/checkout/cart?gutschein=5800nc17886039692&ref=257842) *(点击自动填入购物车)*
   - [`5800nc17886039691`](https://www.netcup.com/en/checkout/cart?gutschein=5800nc17886039691&ref=257842) *(点击自动填入购物车)*
