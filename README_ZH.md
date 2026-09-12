@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-09-12 19:58:38 北京时间 (UTC+8)` | `13:58:38 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-09-12 20:02:36 北京时间 (UTC+8)` | `14:02:36 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,7 +24,7 @@
 ### Root Server 独立核心服务器 (G12 代独享核心)
 
 - **Root Server 1000 G12 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
-  - [`5997nc17891394380`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17891394380&ref=257842) *(点击自动填入购物车)*
+  - [`5997nc17892145200`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17892145200&ref=257842) *(点击自动填入购物车)*
   - [`5997nc17886125171`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125171&ref=257842) *(点击自动填入购物车)*
   - [`5997nc17886125170`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125170&ref=257842) *(点击自动填入购物车)*
   - [`5997nc17886100420`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886100420&ref=257842) *(点击自动填入购物车)*
