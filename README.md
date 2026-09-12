@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-09-12 23:27:51 UTC` | `07:27:51 CST (UTC+8)` | `01:27:51 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-09-12 23:31:57 UTC` | `07:31:57 CST (UTC+8)` | `01:31:57 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,11 +24,11 @@
 ### Root Servers (RS G12 - Dedicated AMD EPYC Cores)
 
 - **Root Server 1000 G12 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
+  - [`5997nc17892558730`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17892558730&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17892145200`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17892145200&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886125171`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125171&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886125170`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886125170&ref=257842) *(Click code to redeem directly)*
   - [`5997nc17886100420`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17886100420&ref=257842) *(Click code to redeem directly)*
-  - [`5997nc17870564000`](https://www.netcup.com/en/checkout/cart?gutschein=5997nc17870564000&ref=257842) *(Click code to redeem directly)*
 - **Root Server 2000 G12 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
   - [`5998nc17890503060`](https://www.netcup.com/en/checkout/cart?gutschein=5998nc17890503060&ref=257842) *(Click code to redeem directly)*
   - [`5998nc17870443150`](https://www.netcup.com/en/checkout/cart?gutschein=5998nc17870443150&ref=257842) *(Click code to redeem directly)*
@@ -69,11 +69,11 @@
   - [`5801nc17886039791`](https://www.netcup.com/en/checkout/cart?gutschein=5801nc17886039791&ref=257842) *(Click code to redeem directly)*
   - [`5801nc17874152380`](https://www.netcup.com/en/checkout/cart?gutschein=5801nc17874152380&ref=257842) *(Click code to redeem directly)*
 - **VPS 8000 G12 Voucher (1 Month Free)** - *Large specification VPS for resource-intensive concurrent tasks.*
+  - [`5802nc17892558830`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17892558830&ref=257842) *(Click code to redeem directly)*
   - [`5802nc17888693920`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17888693920&ref=257842) *(Click code to redeem directly)*
   - [`5802nc17886039891`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17886039891&ref=257842) *(Click code to redeem directly)*
   - [`5802nc17886039890`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17886039890&ref=257842) *(Click code to redeem directly)*
   - [`5802nc17886037091`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17886037091&ref=257842) *(Click code to redeem directly)*
-  - [`5802nc17886037090`](https://www.netcup.com/en/checkout/cart?gutschein=5802nc17886037090&ref=257842) *(Click code to redeem directly)*
 
 ### Web Hosting (Shared SSD Hosting + Free Domain)
 
