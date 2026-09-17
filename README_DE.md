@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-09-17 07:56:43 MESZ (Deutschland)` | `05:56:43 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-09-17 08:00:26 MESZ (Deutschland)` | `06:00:26 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -30,11 +30,11 @@
   - [`5997nc17893342340`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5997nc17893342340&ref=257842) *(Klicken zum Einlösen)*
   - [`5997nc17892145200`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5997nc17892145200&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 2000 G12 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
+  - [`5998nc17896248060`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17896248060&ref=257842) *(Klicken zum Einlösen)*
   - [`5998nc17896245840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17896245840&ref=257842) *(Klicken zum Einlösen)*
   - [`5998nc17895305940`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17895305940&ref=257842) *(Klicken zum Einlösen)*
   - [`5998nc17893385360`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17893385360&ref=257842) *(Klicken zum Einlösen)*
   - [`5998nc17870443150`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17870443150&ref=257842) *(Klicken zum Einlösen)*
-  - [`5998nc17862107800`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5998nc17862107800&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 4000 G12 Voucher (1 Month Free)** - *Extreme computing power with high capacity NVMe storage.*
   - [`5999nc17864624640`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5999nc17864624640&ref=257842) *(Klicken zum Einlösen)*
   - [`5999nc17855752190`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5999nc17855752190&ref=257842) *(Klicken zum Einlösen)*
