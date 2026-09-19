@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-09-19 09:19:41 北京时间 (UTC+8)` | `03:19:41 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-09-19 09:23:12 北京时间 (UTC+8)` | `03:23:12 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
