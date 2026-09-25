@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-09-25 17:10:19 UTC` | `01:10:19 CST (UTC+8)` | `19:10:19 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-09-25 17:14:59 UTC` | `01:14:59 CST (UTC+8)` | `19:14:59 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,10 +24,10 @@
 ### Root Servers (RS G12 - Dedicated AMD EPYC Cores)
 
 - **Root Server 1000 G12 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
+  - [`6874nc17903564800`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903564800&ref=257842) *(Click code to redeem directly)*
   - [`6874nc17903411240`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903411240&ref=257842) *(Click code to redeem directly)*
   - [`6874nc17903404254`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903404254&ref=257842) *(Click code to redeem directly)*
   - [`6874nc17903404253`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903404253&ref=257842) *(Click code to redeem directly)*
-  - [`6874nc17903404252`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903404252&ref=257842) *(Click code to redeem directly)*
   - [`6874nc17903404251`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903404251&ref=257842) *(Click code to redeem directly)*
 - **Root Server 2000 G12 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
   - [`6875nc17903404344`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17903404344&ref=257842) *(Click code to redeem directly)*
