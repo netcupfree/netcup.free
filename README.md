@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-09-26 10:15:58 UTC` | `18:15:58 CST (UTC+8)` | `12:15:58 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-09-26 10:20:38 UTC` | `18:20:38 CST (UTC+8)` | `12:20:38 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -57,8 +57,8 @@
   - [`6877nc17903406671`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17903406671&ref=257842) *(Click code to redeem directly)*
   - [`6877nc17903406670`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17903406670&ref=257842) *(Click code to redeem directly)*
 - **VPS 2000 G12 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
-  - [`6878nc17903406764`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406764&ref=257842) *(Click code to redeem directly)*
-  - [`6878nc17903406763`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406763&ref=257842) *(Click code to redeem directly)*
+  - [`6878nc17904180211`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17904180211&ref=257842) *(Click code to redeem directly)*
+  - [`6878nc17904180210`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17904180210&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17903406762`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406762&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17903406761`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406761&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17903406760`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406760&ref=257842) *(Click code to redeem directly)*
