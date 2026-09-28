@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-09-28 13:27:51 MESZ (Deutschland)` | `11:27:51 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-09-28 13:32:33 MESZ (Deutschland)` | `11:32:33 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -42,11 +42,11 @@
   - [`36nc17692767970`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17692767970&ref=257842) *(Klicken zum Einlösen)*
   - [`36nc17339203824`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17339203824&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 8000 G12 Voucher (1 Month Free)** - *Flagship dedicated server specs with multi-cores, high RAM & storage.*
+  - [`6876nc17905951350`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17905951350&ref=257842) *(Klicken zum Einlösen)*
   - [`6876nc17903404444`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903404444&ref=257842) *(Klicken zum Einlösen)*
   - [`6876nc17903404443`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903404443&ref=257842) *(Klicken zum Einlösen)*
   - [`6876nc17903404442`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903404442&ref=257842) *(Klicken zum Einlösen)*
   - [`6876nc17903404441`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903404441&ref=257842) *(Klicken zum Einlösen)*
-  - [`6876nc17903404440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903404440&ref=257842) *(Klicken zum Einlösen)*
 
 ### vServer (VPS G12)
 
