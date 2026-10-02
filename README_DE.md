@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-10-02 07:50:39 MESZ (Deutschland)` | `05:50:39 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-02 07:55:18 MESZ (Deutschland)` | `05:55:18 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,11 +24,11 @@
 ### Root Server (RS G12.5 - Dedizierte CPU)
 
 - **Root Server 1000 G12.5 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
+  - [`6874nc17909205010`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909205010&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17908767890`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17908767890&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17906186660`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17906186660&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17903564800`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17903564800&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17903404254`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17903404254&ref=257842) *(Klicken zum Einlösen)*
-  - [`6874nc17903404253`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17903404253&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 2000 G12.5 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
   - [`6875nc17908599840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17908599840&ref=257842) *(Klicken zum Einlösen)*
   - [`6875nc17908402400`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17908402400&ref=257842) *(Klicken zum Einlösen)*
