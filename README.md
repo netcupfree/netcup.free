@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-10-03 12:26:31 UTC` | `20:26:31 CST (UTC+8)` | `14:26:31 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-10-03 12:31:12 UTC` | `20:31:12 CST (UTC+8)` | `14:31:12 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -57,10 +57,10 @@
   - [`6877nc17903406671`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17903406671&ref=257842) *(Click code to redeem directly)*
   - [`6877nc17903406670`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17903406670&ref=257842) *(Click code to redeem directly)*
 - **VPS 2000 G12.5 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
+  - [`6878nc17910306551`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910306551&ref=257842) *(Click code to redeem directly)*
+  - [`6878nc17910306550`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910306550&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17904180211`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17904180211&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17904180210`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17904180210&ref=257842) *(Click code to redeem directly)*
-  - [`6878nc17903406762`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406762&ref=257842) *(Click code to redeem directly)*
-  - [`6878nc17903406761`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406761&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17903406760`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406760&ref=257842) *(Click code to redeem directly)*
 - **VPS 4000 G12.5 Voucher (1 Month Free)** - *Multi-core & large memory for high-traffic apps and databases.*
   - [`6879nc17910263220`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17910263220&ref=257842) *(Click code to redeem directly)*
