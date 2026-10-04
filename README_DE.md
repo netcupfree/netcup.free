@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-10-04 20:53:56 MESZ (Deutschland)` | `18:53:56 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-04 20:58:36 MESZ (Deutschland)` | `18:58:36 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -90,11 +90,11 @@
   - [`5208nc17903556352`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17903556352&ref=257842) *(Klicken zum Einlösen)*
   - [`5208nc17903556350`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17903556350&ref=257842) *(Klicken zum Einlösen)*
 - **Webhosting 8000 Voucher (30% Lifetime Off)** - *Flagship managed web hosting for enterprise workloads & high storage.*
+  - [`5209nc17911402990`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17911402990&ref=257842) *(Klicken zum Einlösen)*
   - [`5209nc17910490430`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17910490430&ref=257842) *(Klicken zum Einlösen)*
   - [`5209nc17910393180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17910393180&ref=257842) *(Klicken zum Einlösen)*
   - [`5209nc17903556443`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903556443&ref=257842) *(Klicken zum Einlösen)*
   - [`5209nc17903556441`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903556441&ref=257842) *(Klicken zum Einlösen)*
-  - [`5209nc17903556440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903556440&ref=257842) *(Klicken zum Einlösen)*
 
 ## 🚀 Technische Spezifikationen (Netcup G12.5 Generation)
 Netcup G12.5-Instanzen verfügen über AMD EPYC™ 9645 Enterprise-Prozessoren mit DDR5 ECC-Arbeitsspeicher, schnellem NVMe/SSD-Speicher und 2,5 GBit/s Bandbreite.
