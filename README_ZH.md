@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-10-04 23:48:36 北京时间 (UTC+8)` | `17:48:36 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-10-04 23:49:32 北京时间 (UTC+8)` | `17:49:32 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -84,10 +84,10 @@
   - [`5207nc17903556251`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556251&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17903556250`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556250&ref=257842) *(点击自动填入购物车)*
 - **Webhosting 4000 Voucher (30% Lifetime Off)** - *Advanced web hosting with large storage capacity & multi-site support.*
+  - [`5208nc17911289550`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911289550&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556354`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556354&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556353`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556353&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556352`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556352&ref=257842) *(点击自动填入购物车)*
-  - [`5208nc17903556351`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556351&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556350`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556350&ref=257842) *(点击自动填入购物车)*
 - **Webhosting 8000 Voucher (30% Lifetime Off)** - *Flagship managed web hosting for enterprise workloads & high storage.*
   - [`5209nc17910490430`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17910490430&ref=257842) *(点击自动填入购物车)*
