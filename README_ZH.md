@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-10-05 11:54:47 北京时间 (UTC+8)` | `05:54:47 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-10-05 11:59:27 北京时间 (UTC+8)` | `05:59:27 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -90,10 +90,10 @@
   - [`5208nc17903556352`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556352&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556350`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556350&ref=257842) *(点击自动填入购物车)*
 - **Webhosting 8000 Voucher (30% Lifetime Off)** - *Flagship managed web hosting for enterprise workloads & high storage.*
+  - [`5209nc17911727490`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17911727490&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17911402990`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17911402990&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17910490430`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17910490430&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17910393180`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17910393180&ref=257842) *(点击自动填入购物车)*
-  - [`5209nc17903556443`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903556443&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17903556441`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903556441&ref=257842) *(点击自动填入购物车)*
 
 ## 🚀 硬件配置参数表 (Netcup G12.5 代 AMD EPYC™ 9645)
