@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-10-05 17:06:55 北京时间 (UTC+8)` | `11:06:55 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-10-05 17:11:35 北京时间 (UTC+8)` | `11:11:35 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -69,11 +69,11 @@
   - [`6879nc17911643140`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17911643140&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17910263220`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17910263220&ref=257842) *(点击自动填入购物车)*
 - **VPS 8000 G12.5 Voucher (1 Month Free)** - *Large specification VPS for resource-intensive concurrent tasks.*
+  - [`6880nc17911914780`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911914780&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17911738350`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911738350&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17911667870`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911667870&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17911419230`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911419230&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17909963050`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17909963050&ref=257842) *(点击自动填入购物车)*
-  - [`6880nc17903406850`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17903406850&ref=257842) *(点击自动填入购物车)*
 
 ### Webhosting 虚拟主机 (免税 + 赠免费顶级域名)
 
