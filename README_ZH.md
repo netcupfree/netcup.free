@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-10-05 09:34:12 北京时间 (UTC+8)` | `03:34:12 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-10-05 09:39:02 北京时间 (UTC+8)` | `03:39:02 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -63,8 +63,8 @@
   - [`6878nc17904180210`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17904180210&ref=257842) *(点击自动填入购物车)*
   - [`6878nc17903406760`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406760&ref=257842) *(点击自动填入购物车)*
 - **VPS 4000 G12.5 Voucher (1 Month Free)** - *Multi-core & large memory for high-traffic apps and databases.*
+  - [`6879nc17911643140`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17911643140&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17910263220`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17910263220&ref=257842) *(点击自动填入购物车)*
-  - [`6879nc17903556164`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903556164&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17903556163`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903556163&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17903556161`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903556161&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17903556160`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903556160&ref=257842) *(点击自动填入购物车)*
@@ -84,6 +84,7 @@
   - [`5207nc17903556251`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556251&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17903556250`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556250&ref=257842) *(点击自动填入购物车)*
 - **Webhosting 4000 Voucher (30% Lifetime Off)** - *Advanced web hosting with large storage capacity & multi-site support.*
+  - [`5208nc17911643230`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911643230&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17911289550`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911289550&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556353`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556353&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556352`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556352&ref=257842) *(点击自动填入购物车)*
