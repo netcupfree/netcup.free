@@ -3,7 +3,7 @@
 # ⚡ Netcup 优惠码与折扣券实时集合
 > 🏷️ 经过自动实时验证的 Netcup 优惠码集合，与 [netcup.free](https://netcup.free) 网站保持完全同步更新。
 
-⏰ **最后更新时间:** `2026-10-09 23:02:16 北京时间 (UTC+8)` | `17:02:16 德国时间 (UTC+2)`
+⏰ **最后更新时间:** `2026-10-09 23:06:24 北京时间 (UTC+8)` | `17:06:24 德国时间 (UTC+2)`
 
 ## 🛒 快捷兑换通道
 - 🇩🇪 **德语结账购物车:** [netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -14,7 +14,7 @@
 
 ### 通用折扣券 (新人立减 5 欧元)
 
-- **5 Euro 通用优惠券 (立减 5 欧元)** - *Save 5€ directly on your first Netcup registration order*
+- **5 Euro General Voucher (Save 5 €)** - *Save 5€ directly on your first Netcup registration order (new customers only).*
   - [`36nc17692767974`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767974&ref=257842) *(点击自动填入购物车)*
   - [`36nc17692767973`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767973&ref=257842) *(点击自动填入购物车)*
   - [`36nc17692767971`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767971&ref=257842) *(点击自动填入购物车)*
@@ -23,25 +23,25 @@
 
 ### Root Server 独立核心服务器 (G12.5 代独享核心)
 
-- **Root Server 1000 G12.5 (免费 2 个月)** - *Dedicated CPU cores & high performance guarantee*
+- **Root Server 1000 G12.5 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
   - [`6874nc17912717750`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17912717750&ref=257842) *(点击自动填入购物车)*
   - [`6874nc17912663670`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17912663670&ref=257842) *(点击自动填入购物车)*
   - [`6874nc17912658070`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17912658070&ref=257842) *(点击自动填入购物车)*
   - [`6874nc17911656890`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17911656890&ref=257842) *(点击自动填入购物车)*
   - [`6874nc17909205010`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17909205010&ref=257842) *(点击自动填入购物车)*
-- **Root Server 2000 G12.5 (免费 1 个月)** - *High performance production environment for apps*
+- **Root Server 2000 G12.5 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
   - [`6875nc17915364090`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17915364090&ref=257842) *(点击自动填入购物车)*
   - [`6875nc17911808980`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17911808980&ref=257842) *(点击自动填入购物车)*
   - [`6875nc17908599840`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17908599840&ref=257842) *(点击自动填入购物车)*
   - [`6875nc17908402400`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17908402400&ref=257842) *(点击自动填入购物车)*
   - [`6875nc17908386010`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17908386010&ref=257842) *(点击自动填入购物车)*
-- **Root Server 4000 G12.5 (立减 5 欧元)** - *Extreme computing power with large NVMe storage*
+- **Root Server 4000 G12.5 Voucher (€5 Off)** - *Extreme computing power with high capacity NVMe storage.*
   - [`36nc17692767974`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767974&ref=257842) *(点击自动填入购物车)*
   - [`36nc17692767973`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767973&ref=257842) *(点击自动填入购物车)*
   - [`36nc17692767971`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767971&ref=257842) *(点击自动填入购物车)*
   - [`36nc17692767970`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17692767970&ref=257842) *(点击自动填入购物车)*
   - [`36nc17339203824`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17339203824&ref=257842) *(点击自动填入购物车)*
-- **Root Server 8000 G12.5 (免费 1 个月)** - *Flagship multi-core dedicated server specs*
+- **Root Server 8000 G12.5 Voucher (1 Month Free)** - *Flagship dedicated server specs with multi-cores, high RAM & storage.*
   - [`6876nc17912544420`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17912544420&ref=257842) *(点击自动填入购物车)*
   - [`6876nc17912449670`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17912449670&ref=257842) *(点击自动填入购物车)*
   - [`6876nc17911833490`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17911833490&ref=257842) *(点击自动填入购物车)*
@@ -50,25 +50,25 @@
 
 ### VPS 云服务器 (G12.5 代 AMD EPYC 9645)
 
-- **VPS 1000 G12.5 (免费 1 个月)** - *Best value VPS for web applications*
+- **VPS 1000 G12.5 Voucher (1 Month Free)** - *Best budget starter VPS for personal blogs and lightweight apps.*
   - [`6877nc17912660870`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17912660870&ref=257842) *(点击自动填入购物车)*
   - [`6877nc17911770990`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911770990&ref=257842) *(点击自动填入购物车)*
   - [`6877nc17911230080`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911230080&ref=257842) *(点击自动填入购物车)*
   - [`6877nc17911205670`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911205670&ref=257842) *(点击自动填入购物车)*
   - [`6877nc17910741410`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17910741410&ref=257842) *(点击自动填入购物车)*
-- **VPS 2000 G12.5 (免费 1 个月)** - *Balanced resource allocation for dev testing*
+- **VPS 2000 G12.5 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
   - [`6878nc17911667780`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17911667780&ref=257842) *(点击自动填入购物车)*
   - [`6878nc17911308540`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17911308540&ref=257842) *(点击自动填入购物车)*
   - [`6878nc17910306551`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910306551&ref=257842) *(点击自动填入购物车)*
   - [`6878nc17910306550`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910306550&ref=257842) *(点击自动填入购物车)*
   - [`6878nc17903406760`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406760&ref=257842) *(点击自动填入购物车)*
-- **VPS 4000 G12.5 (免费 1 个月)** - *Multi-core & large memory for high traffic websites*
+- **VPS 4000 G12.5 Voucher (1 Month Free)** - *Multi-core & large memory for high-traffic apps and databases.*
   - [`6879nc17912750262`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17912750262&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17912750261`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17912750261&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17912750260`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17912750260&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17911689540`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17911689540&ref=257842) *(点击自动填入购物车)*
   - [`6879nc17911643140`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17911643140&ref=257842) *(点击自动填入购物车)*
-- **VPS 8000 G12.5 (免费 1 个月)** - *Large specification VPS for resource-intensive workloads*
+- **VPS 8000 G12.5 Voucher (1 Month Free)** - *Large specification VPS for resource-intensive concurrent tasks.*
   - [`6880nc17911914780`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911914780&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17911738350`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911738350&ref=257842) *(点击自动填入购物车)*
   - [`6880nc17911667870`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911667870&ref=257842) *(点击自动填入购物车)*
@@ -77,19 +77,19 @@
 
 ### Webhosting 虚拟主机 (免税 + 赠免费顶级域名)
 
-- **Webhosting 2000 (永久 30% 优惠)** - *Managed shared web hosting with included free domain*
+- **Webhosting 2000 Voucher (30% Lifetime Off)** - *Managed shared web hosting with included free domain for WordPress.*
   - [`5207nc17911789980`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17911789980&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17911646040`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17911646040&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17909741960`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17909741960&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17903556253`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556253&ref=257842) *(点击自动填入购物车)*
   - [`5207nc17903556251`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17903556251&ref=257842) *(点击自动填入购物车)*
-- **Webhosting 4000 (永久 30% 优惠)** - *Advanced web hosting with large storage capacity*
+- **Webhosting 4000 Voucher (30% Lifetime Off)** - *Advanced web hosting with large storage capacity & multi-site support.*
   - [`5208nc17911860610`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911860610&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17911752040`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911752040&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17911643230`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911643230&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17911289550`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17911289550&ref=257842) *(点击自动填入购物车)*
   - [`5208nc17903556353`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903556353&ref=257842) *(点击自动填入购物车)*
-- **Webhosting 8000 (永久 30% 优惠)** - *Flagship managed web hosting for enterprise workloads*
+- **Webhosting 8000 Voucher (30% Lifetime Off)** - *Flagship managed web hosting for enterprise workloads & high storage.*
   - [`5209nc17911727490`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17911727490&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17911402990`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17911402990&ref=257842) *(点击自动填入购物车)*
   - [`5209nc17910490430`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17910490430&ref=257842) *(点击自动填入购物车)*
