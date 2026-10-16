@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-10-16 22:41:39 MESZ (Deutschland)` | `20:41:39 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-16 22:46:19 MESZ (Deutschland)` | `20:46:19 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -78,7 +78,7 @@
 ### Webhosting (Inklusivdomain & SSD)
 
 - **Webhosting 2000 Voucher (30% Lifetime Off)** - *Managed shared web hosting with included free domain for WordPress.*
-  - [`5207nc17911789980`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17911789980&ref=257842) *(Klicken zum Einlösen)*
+  - [`5207nc17921835610`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17921835610&ref=257842) *(Klicken zum Einlösen)*
   - [`5207nc17911646040`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17911646040&ref=257842) *(Klicken zum Einlösen)*
   - [`5207nc17909741960`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17909741960&ref=257842) *(Klicken zum Einlösen)*
   - [`5207nc17903556253`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17903556253&ref=257842) *(Klicken zum Einlösen)*
