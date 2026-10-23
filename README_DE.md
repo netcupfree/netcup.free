@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-10-23 02:21:52 MESZ (Deutschland)` | `00:21:52 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-23 02:26:29 MESZ (Deutschland)` | `00:26:29 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -51,9 +51,9 @@
 ### vServer (VPS G12.5)
 
 - **VPS 1000 G12.5 Voucher (1 Month Free)** - *Best budget starter VPS for personal blogs and lightweight apps.*
+  - [`6877nc17927151740`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17927151740&ref=257842) *(Klicken zum Einlösen)*
   - [`6877nc17926348600`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17926348600&ref=257842) *(Klicken zum Einlösen)*
   - [`6877nc17911770990`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17911770990&ref=257842) *(Klicken zum Einlösen)*
-  - [`6877nc17911230080`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17911230080&ref=257842) *(Klicken zum Einlösen)*
   - [`6877nc17911205670`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17911205670&ref=257842) *(Klicken zum Einlösen)*
   - [`6877nc17910741410`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17910741410&ref=257842) *(Klicken zum Einlösen)*
 - **VPS 2000 G12.5 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
