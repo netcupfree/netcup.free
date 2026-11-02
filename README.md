@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-11-02 06:58:44 UTC` | `14:58:44 CST (UTC+8)` | `08:58:44 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-11-02 07:03:23 UTC` | `15:03:23 CST (UTC+8)` | `09:03:23 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -57,9 +57,9 @@
   - [`6877nc17911205670`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911205670&ref=257842) *(Click code to redeem directly)*
   - [`6877nc17910741410`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17910741410&ref=257842) *(Click code to redeem directly)*
 - **VPS 2000 G12.5 Voucher (1 Month Free)** - *Balanced resource allocation for dev testing and Docker containers.*
+  - [`6878nc17936029791`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17936029791&ref=257842) *(Click code to redeem directly)*
+  - [`6878nc17936029790`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17936029790&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17936024060`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17936024060&ref=257842) *(Click code to redeem directly)*
-  - [`6878nc17920307370`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17920307370&ref=257842) *(Click code to redeem directly)*
-  - [`6878nc17911667780`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17911667780&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17910306550`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910306550&ref=257842) *(Click code to redeem directly)*
   - [`6878nc17903406760`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17903406760&ref=257842) *(Click code to redeem directly)*
 - **VPS 4000 G12.5 Voucher (1 Month Free)** - *Multi-core & large memory for high-traffic apps and databases.*
