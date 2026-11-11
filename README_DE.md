@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-11-11 18:40:23 MESZ (Deutschland)` | `16:40:23 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-11 18:44:51 MESZ (Deutschland)` | `16:44:51 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
