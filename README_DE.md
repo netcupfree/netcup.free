@@ -3,7 +3,7 @@
 # ⚡ Verifizierte Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch synchronisiert mit [netcup.free](https://netcup.free).
 
-⏰ **Zuletzt aktualisiert:** `2026-11-16 18:04:59 MESZ (Deutschland)` | `16:04:59 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-16 18:09:47 MESZ (Deutschland)` | `16:09:47 UTC`
 
 ## 🛒 Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
@@ -24,15 +24,15 @@
 ### Root Server (RS G12.5 - Dedizierte CPU)
 
 - **Root Server 1000 G12.5 Voucher (2 Months Free)** - *Dedicated CPU cores & high performance guarantee. Best seller for hosting.*
-  - [`6874nc17942297500`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17942297500&ref=257842) *(Klicken zum Einlösen)*
+  - [`6874nc17948453600`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17948453600&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17933832471`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17933832471&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17933832470`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17933832470&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17920459180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17920459180&ref=257842) *(Klicken zum Einlösen)*
   - [`6874nc17920310180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17920310180&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 2000 G12.5 Voucher (1 Month Free)** - *High performance production environment for medium to large apps.*
+  - [`6875nc17948453690`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17948453690&ref=257842) *(Klicken zum Einlösen)*
   - [`6875nc17925689280`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925689280&ref=257842) *(Klicken zum Einlösen)*
   - [`6875nc17923435920`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17923435920&ref=257842) *(Klicken zum Einlösen)*
-  - [`6875nc17911808980`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17911808980&ref=257842) *(Klicken zum Einlösen)*
   - [`6875nc17908599840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17908599840&ref=257842) *(Klicken zum Einlösen)*
   - [`6875nc17908402400`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17908402400&ref=257842) *(Klicken zum Einlösen)*
 - **Root Server 4000 G12.5 Voucher (€5 Off)** - *Extreme computing power with high capacity NVMe storage.*
