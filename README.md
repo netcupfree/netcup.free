@@ -3,7 +3,7 @@
 # ⚡ Verified Netcup Coupons & Voucher Codes
 > 🏷️ Curated and real-time verified Netcup voucher codes. Synchronized directly with [netcup.free](https://netcup.free).
 
-⏰ **Last Updated:** `2026-11-25 12:18:39 UTC` | `20:18:39 CST (UTC+8)` | `14:18:39 CEST (UTC+2)`
+⏰ **Last Updated:** `2026-11-25 12:23:08 UTC` | `20:23:08 CST (UTC+8)` | `14:23:08 CEST (UTC+2)`
 
 ## 🛒 How to Redeem
 - 🇩🇪 **German Checkout:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb?ref=257842)
